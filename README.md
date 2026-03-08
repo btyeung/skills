@@ -17,6 +17,6 @@ Not a code generator. Not a how-to guide. A check on your judgment.
 ## Install
 
 ```bash
-/plugin marketplace add github.com/byeung/skills
-/plugin install dev-check@byeung-skills
+/plugin marketplace add github.com/btyeung/skills
+/plugin install dev-check@btyeung-skills
 ```
