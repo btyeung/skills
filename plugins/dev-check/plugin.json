@@ -1,0 +1,7 @@
+{
+  "name": "dev-check",
+  "version": "1.0.0",
+  "description": "Structured thinking partner for engineering decisions and agentic development",
+  "author": { "name": "Bryan Yeung" },
+  "license": "MIT"
+}
