@@ -1,0 +1,13 @@
+{
+  "name": "btyeung-skills",
+  "owner": { "name": "Bryan Yeung" },
+  "metadata": { "description": "Personal Claude Code skills collection" },
+  "plugins": [
+    {
+      "name": "dev-check",
+      "description": "Structured thinking partner for engineering decisions and agentic development",
+      "version": "1.0.0",
+      "source": "./plugins/dev-check"
+    }
+  ]
+}
